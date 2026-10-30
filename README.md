@@ -94,8 +94,8 @@ Evaluated on the 10,000-sample held-out test set:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<sarvshreshth10>/<Intelligent password strength analyzer>.git
+cd <Intelligent-password-strength-analyser>
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
